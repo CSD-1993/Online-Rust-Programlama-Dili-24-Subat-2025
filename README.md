@@ -1,4 +1,4 @@
-# Online-Rust-Programlama-Dili-02-Ekim-2024
+# Online-Rust-Programlama-Dili-2-Ekim-2024
 
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) ve `"Sistem Bilgisayar"` işbirliği ile düzenlenmektedir.
