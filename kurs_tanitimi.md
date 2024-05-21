@@ -1,5 +1,5 @@
 ## Online Rust Programlama Dili Kursu - Genel Tanıtım
-<b>Python</b>  
+<b>Rust</b>  
 
 Bu kurs __Rust__ Programlama Dilini ayrıntılı biçimde uygulamalı olarak öğretmeyi hedeflemektedir.  
 
