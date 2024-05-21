@@ -2,7 +2,7 @@
 
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) ve `"Sistem Bilgisayar"` işbirliği ile düzenlenmektedir.
-+ Kurs 2 Ekim 2024 tarihinde başlayacaktır.
++ Kurs 21 Ekim 2024 tarihinde başlayacaktır.
 + Kurs eğitmeni `Kaan Aslan`'dır.
 + Kursumuz gerçek zamanlıdır. Derslerimiz interaktif olarak yapılmaktadır.
 + Toplam kurs süresi `250` saattir. Dersler `Pazartesi - Çarşamba` günleri `19:45 - 22:45` saatleri arasında haftada 6 saat olacak biçimde yapılacaktır. 
