@@ -11,4 +11,4 @@
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Rust-Programlama-Dili-2-Ekim-2024/blob/main/kurs_tanitimi.md)
 + [Kurs İçeriği](https://github.com/CSD-1993/Online-Rust-Programlama-Dili-2-Ekim-2024/blob/main/kurs_icerigi.md)
 + [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Rust-Programlama-Dili-2-Ekim-2024/blob/main/sss.md)
-+ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.]()
++ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZYpc-6vpjotGtUIE3aLDdzRK2G7mN6beDba#/registration)
