@@ -6,7 +6,7 @@
 + Kurs eğitmeni `Kaan Aslan`'dır.
 + Kursumuz gerçek zamanlıdır. Derslerimiz interaktif olarak yapılmaktadır.
 + Toplam kurs süresi `250` saattir. Dersler `Pazartesi - Çarşamba` günleri `19:45 - 22:45` saatleri arasında haftada 6 saat olacak biçimde yapılacaktır. 
-+ Kursumuzun toplam ücreti __KDV dahil 42.500 TL__'dir (Peşin ödemede __38.250 TL__’dir). Öğrenciler için kurs ücreti(öğrencilik durumunu belgelemeleri kaydıyla) __KDV dahil 38.000 TL__'dir (Peşin ödemede __34.200 TL__ ’dir). Kurs ücreti peşin ya da __2 taksit__ olarak ödenebilir..
++ Kursumuzun toplam ücreti __KDV dahil 42.500 TL__'dir (Peşin ödemede __38.250 TL__’dir). Öğrenciler için kurs ücreti(öğrencilik durumunu belgelemeleri kaydıyla) __KDV dahil 38.000 TL__'dir (Peşin ödemede __34.200 TL__ ’dir). Kurs ücreti peşin ya da __2 taksit__ olarak ödenebilir.
 ## Kursla ilgili bağlantılar
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Rust-Programlama-Dili-2-Ekim-2024/blob/main/kurs_tanitimi.md)
 + [Kurs İçeriği](https://github.com/CSD-1993/Online-Rust-Programlama-Dili-2-Ekim-2024/blob/main/kurs_icerigi.md)
