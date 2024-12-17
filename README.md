@@ -1,8 +1,8 @@
-# Online-Rust-Programlama-Dili-23-Aralık-2024
+# Online-Rust-Programlama-Dili-27-Ocak-2025
 
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) ve `"Sistem Bilgisayar"` işbirliği ile düzenlenmektedir.
-+ Kurs 23 Aralık 2024 tarihinde başlayacaktır.
++ Kurs 27 Ocak 2025 tarihinde başlayacaktır.
 + Kurs eğitmeni __Kaan Aslan__'dır.
 + Kursumuz gerçek zamanlıdır. Derslerimiz interaktif olarak yapılmaktadır.
 + Toplam kurs süresi __250__ saattir. Dersler __Pazartesi - Çarşamba__ günleri __19:45 - 22:45__ saatleri arasında haftada 6 saat olacak biçimde yapılacaktır. 
