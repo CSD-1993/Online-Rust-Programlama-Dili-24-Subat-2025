@@ -1,16 +1,10 @@
 ## Online Rust Programlama Dili Kursu - Genel Tanıtım
 <b>Rust</b>  
 
-Bu kurs __Rust__ Programlama Dilini ayrıntılı biçimde uygulamalı olarak öğretmeyi hedeflemektedir.  
-
-Kursun temel özellikleri şöyle betimlenebilir:
-
-* Kurs __Rust__ Programlama Dilini ayrıntılı biçimde ve uygulamalı olarak öğretme iddiasındadır.
-
+Bu kurs __Rust__ Programlama Dilini uygulamalı olarak ayrıntılı biçimde uygulamalı olarak öğretmeyi hedeflemektedir.  
   
-
 ## Ön Koşul
-Bu kurs için katılımcıların temel programlama bilgisine sahip olması gerekmektedir. 
+Bu kurs için katılımcıların temel programlama bilgisine sahip olması ve daha önce bir programlama dilinde uygulamalı çalışmalar yapmış olması gerekmektedir.
 
 ## Eğitim Süresi
 Eğitim Süresi __250__ Saattir. 
