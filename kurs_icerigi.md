@@ -13,6 +13,8 @@
 + Rust Programlarının Derlenmesi ve Çalıştırılması
 + Rust'ta "Merhaba Dünya" Programı
 + Cargo Paket Yöneticisinin kullanımı
++ Rust Kaynak Dosyalarının Organizasyonu
++ Rust'ta Atomlara Ayırma ve Yazık Kuralı
 
 ## __Rust'ta Temel Türler ve Değişken Bildirimleri__
 + Rust'ta Tür Sistemi ve Rust'taki Temel (Skaler) Türler
@@ -21,6 +23,18 @@
 + Değişkenlerde Değiştirilebilirlik (Mutability)
 + Sabit İfadeleri ve const Bildirimleri
 + Değişkenlerin Gölgelenmesi
+
+##__Sabitler__
++ Tamsayı Sabitleri
++ Gerçek Sayı Sabitleri
++ Karakter ve Byte Sabitleri
++ String Sabitleri
++ Ham String Sabitleri
++ Byte String Sabitleri
++ Ham Byte String Sabitleri
++ C String Sabitleri
++ Byte C String Sabitleri
++ Bool Sabitler
 
 ## __Demetler ve Diziler__
 + Demetlerin (Tuples) Bildirimeleri
@@ -64,7 +78,8 @@
 + Range İfadesi
 + break İfadesi
 + continue İfadesi
-+ 
++ match İfadesi
++ match Kalıpları
 
 
 
