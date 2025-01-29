@@ -7,6 +7,8 @@
 + Rust Programlama Dilinin Kullanım Alanları
 + Rust Programlama Dilinin Tasarımsal Özellikleri
 + Sistem Programlama Dili Olarak Rust
++ Rust Dokümanları
++ Yardıcmcı Kaynaklar ve Kitaplar
   
 ## __Rust Geliştirme Sisteminin Kurulumu ve Kullanımı__
 + Rust Geliştirme Araçlarının Windows, Linux ve macOS Sistemlerinde Kurulumu
