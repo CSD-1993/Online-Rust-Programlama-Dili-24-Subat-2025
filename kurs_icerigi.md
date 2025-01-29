@@ -54,5 +54,12 @@
 + İfadesel Deyimler (Expression Statements)
   + Bloklu İfadeler (Expression With Block)
   + Bloksuz İfadeler (Expression Without Block)
-+ 
++ if İfadesi
++ while İfadesi
++ while let ifadesi
++ for İfadesi
++ İteratörlü for İfadesi
++ loop İfadesi
+
+
 
