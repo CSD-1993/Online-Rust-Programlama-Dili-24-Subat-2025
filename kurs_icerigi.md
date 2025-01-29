@@ -39,7 +39,15 @@
 + Karşılaştırma Operatörleri
 + Mantıksal Operatörler
 + Bit Operatörleri
-+ Özel Amaçlı Bazı Operatörler
++ Özel Amaçlı Operatörler
 + Rust'ta Operatör Öncelikleri
   
 ## __Deyimler__
++ Rust Deyimlerine Genel Bakış
++ Rust Deyimlerinin Diğer Dillerdeki Deyimlerden Farklılıkları
++ Rust'ta Deyimler de İfade Gibidir
++ let Deyimi
++ İfadesel Deyimler (Expression Statements)
++   Blok İfadeleri (Block Expression)
++   
+
