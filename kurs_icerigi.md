@@ -24,7 +24,7 @@
 + Sabit İfadeleri ve const Bildirimleri
 + Değişkenlerin Gölgelenmesi
 
-##__Sabitler__
+##__Sabitler (Literals)__
 + Tamsayı Sabitleri
 + Gerçek Sayı Sabitleri
 + Karakter ve Byte Sabitleri
@@ -81,5 +81,5 @@
 + match İfadesi
 + match Kalıpları
 
-
+## __Değişkenlerin Faaliyet Alanlaarı (Scopes)__
 
