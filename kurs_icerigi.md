@@ -56,9 +56,8 @@
   + Bloksuz İfadeler (Expression Without Block)
 + Blok İfadeleri
 + Etiketki Blok İfadeleri
-+ if İfadesi
-+ while İfadesi
-+ while let ifadesi
++ if ve if let İfadeleri
++ while ve while let İfadeleri
 + for İfadesi
 + İteratörlü for İfadesi
 + loop İfadesi
