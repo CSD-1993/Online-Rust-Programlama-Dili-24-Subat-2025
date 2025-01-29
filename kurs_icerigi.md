@@ -10,10 +10,10 @@
 ## __Rust Geliştirme Sisteminin Kurulumu ve Kullanımı__
 + Rust Geliştirme Araçlarının Windows, Linux ve macOS Sistemlerinde Kurulumu
 + Rust Programlarının Derlenmesi ve Çalıştırılması
-+ Russ'ta "Merhaba Dünya" Programı
++ Rust'ta "Merhaba Dünya" Programı
 + Cargo Paket Yöneticisinin kullanımı
 
-## __Tür Sistemi ve Değişken Bildirimleri__
+## __Rust'ta Temel Türler ve Değişken Bildirimleri__
 + Rust'ta Tür Sistemi ve Rust'taki Temel (Skaler) Türler
 + Değişkenlerin Bildirimleri
 + Değişkenlere İlkdeğer Verilmesi
@@ -25,6 +25,21 @@
 + Demetlerin Açılması
 + Dizi Bildirimleri
 + Dizileri İlkdeğer Verilmesi
-+ Dizi
++ Dizi Elemanlarına Erişim
++ Demetlrle ve Dizilerle İşlemler
++ 
+## __Fonksiyonların Tanımlanması ve Çağrılması__
++ Fonksiyon Tanımlanması
++ Fonksiyonların Parametreleri
++ Fonksiyonların Geri Dönüş Değerleri
++ Fonksiyonların Çağrılması
 
+## __Rust'ta Temel Operatörler ve Operatör Öncelikleri__
++ Aritmetik Operatörler
++ Karşılaştırma Operatörleri
++ Mantıksal Operatörler
++ Bit Operatörleri
++ Özel Amaçlı Bazı Operatörler
++ Rust'ta Operatör Öncelikleri
+  
 
