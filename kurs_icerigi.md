@@ -27,7 +27,7 @@
 + Dizileri İlkdeğer Verilmesi
 + Dizi Elemanlarına Erişim
 + Demetlrle ve Dizilerle İşlemler
-+ 
+  
 ## __Fonksiyonların Tanımlanması ve Çağrılması__
 + Fonksiyon Tanımlanması
 + Fonksiyonların Parametreleri
