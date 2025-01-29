@@ -13,8 +13,18 @@
 + Russ'ta "Merhaba Dünya" Programı
 + Cargo Paket Yöneticisinin kullanımı
 
-## __Rust Programlama Dilindeki Türler__
-+ Rust'ta Tür Sistemi
-+ İşaretl ve İşaretsiz Tamsayı Türleri
-+ Gerçek Sayı Türleri
+## __Tür Sistemi ve Değişken Bildirimleri__
++ Rust'ta Tür Sistemi ve Rust'taki Temel (Skaler) Türler
++ Değişkenlerin Bildirimleri
++ Değişkenlere İlkdeğer Verilmesi
++ Değişkenlerin Gölgelenmesi
+
+## __Demetler ve Diziler__
++ Demetlerin (Tuples) Bildirimeleri
++ Demet Elemanlarına Erişim
++ Demetlerin Açılması
++ Dizi Bildirimleri
++ Dizileri İlkdeğer Verilmesi
++ Dizi
+
 
