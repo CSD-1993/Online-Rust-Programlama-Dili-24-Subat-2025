@@ -5,6 +5,7 @@
 + Programlama Dillerinin Tarihsel Gelişimi
 + Rust Programlama Dilinin Doğuşu ve Gelişimi
 + Rust Programlama Dilinin Kullanım Alanları
++ Rust Programlama Dilinin Tasarımsal Özellikleri
 + Sistem Programlama Dili Olarak Rust
   
 ## __Rust Geliştirme Sisteminin Kurulumu ve Kullanımı__
@@ -17,6 +18,8 @@
 + Rust'ta Tür Sistemi ve Rust'taki Temel (Skaler) Türler
 + Değişkenlerin Bildirimleri
 + Değişkenlere İlkdeğer Verilmesi
++ Değişkenlerde Değiştirilebilirlik (Mutability)
++ Sabit İfadeleri ve const Bildirimleri
 + Değişkenlerin Gölgelenmesi
 
 ## __Demetler ve Diziler__
@@ -44,10 +47,12 @@
   
 ## __Deyimler__
 + Rust Deyimlerine Genel Bakış
-+ Rust Deyimlerinin Diğer Dillerdeki Deyimlerden Farklılıkları
++ Rust Deyimlerinin Diğer Dillerdeki Deyimlerle Karşılaştırılması 
 + Rust'ta Deyimler de İfade Gibidir
++ Rust'ta Deyimlerin Sınıflandırılması
 + let Deyimi
 + İfadesel Deyimler (Expression Statements)
-+   Blok İfadeleri (Block Expression)
-+   
+  + Bloklu İfadeler (Expression With Block)
+  + Bloksuz İfadeler (Expression Without Block)
++ 
 
