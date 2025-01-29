@@ -34,7 +34,7 @@
 + Fonksiyonların Geri Dönüş Değerleri
 + Fonksiyonların Çağrılması
 
-## __Rust'ta Temel Operatörler ve Operatör Öncelikleri__
+## __Temel Operatörler ve Operatör Öncelikleri__
 + Aritmetik Operatörler
 + Karşılaştırma Operatörleri
 + Mantıksal Operatörler
@@ -42,4 +42,4 @@
 + Özel Amaçlı Bazı Operatörler
 + Rust'ta Operatör Öncelikleri
   
-
+## __Deyimler__
