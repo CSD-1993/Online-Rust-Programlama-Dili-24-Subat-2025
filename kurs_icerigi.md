@@ -24,7 +24,7 @@
 + Sabit İfadeleri ve const Bildirimleri
 + Değişkenlerin Gölgelenmesi
 
-##__Sabitler (Literals)__
+## __Sabitler (Literals)__
 + Tamsayı Sabitleri
 + Gerçek Sayı Sabitleri
 + Karakter ve Byte Sabitleri
