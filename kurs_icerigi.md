@@ -97,8 +97,10 @@
 ## __Yapılar__
 + Yapıların Bildirimleri
 + Yapı Elemanları
++ + Yapı Türünden Nesnelerinin Bildirilmesi
 + Yapı Elemanlarına Erişim
 + Yapıların İliştirilmiş (Associated) Fonksiyonları
 + İliştirilmiş Fonksiyonların Tanımlanması ve Kullanımı
++ Yapıların Demet Biçiminde Bildirilmesi
 + 
 
