@@ -114,7 +114,7 @@
 + Modüllerin Tanımlanması
 + Modül Öğelerine Erişim
 + Modül Öğelerinin Görünürlüğü
-+ 
++ use Bildirimi
   
 ## __Trait'ler__
 + Trait'lerin Tanımlanması
