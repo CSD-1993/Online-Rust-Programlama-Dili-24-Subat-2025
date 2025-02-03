@@ -82,6 +82,23 @@
 + continue İfadesi
 + match İfadesi
 + match Kalıpları
++ Rust Deyimlerinin C, C++, Java ve C# Deyimleriyle Karşılaştırılması, Benzerlikler ve Farklılıklar
 
-## __Değişkenlerin Faaliyet Alanlaarı (Scopes)__
+## __Değişkenlerin Faaliyet Alanları (Scopes)__
++ Modül Faaliyet Alanı (Item Scope)
++ Kalıp Bağlama Faaliyet Alanı (Pattern Binding Scopes)
+  + Blok İçerisinde Bildirilen Değişkenlerin Faaliyet Alanları
+  + if, for, while, match Gibi Deyimlerde Bildirilen Değişkenlerin Faaliyet Alanları
+  + Döngü Etiketlerinin Faaliyet Alanları (Loop Label Scopes)
+  + Başlangıç Faaliyet Alanı (Prelude Scope)
++ Değişken Bildirimlerinde Gölgeleme ve Derleyici Optimizasyonu
++ Rust Faaliyet Alanlarının C, C++, C# Dillerindeki Faaliyet Alanlarıyla Karşılaştırılması, Benzerlikler ve Farklılıklar
+
+## __Yapılar__
++ Yapıların Bildirimleri
++ Yapı Elemanları
++ Yapı Elemanlarına Erişim
++ Yapıların İliştirilmiş (Associated) Fonksiyonları
++ İliştirilmiş Fonksiyonların Tanımlanması ve Kullanımı
++ 
 
