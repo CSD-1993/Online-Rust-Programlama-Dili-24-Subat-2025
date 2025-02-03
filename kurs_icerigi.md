@@ -102,6 +102,7 @@
 + Yapıların İliştirilmiş (Associated) Fonksiyonları
 + İliştirilmiş Fonksiyonların Tanımlanması ve Kullanımı
 + Yapıların Demet Biçiminde Bildirilmesi
++ Yapı Elemanlarında Görünürlük 
 
 ## __Rust ve Nesne Yönelimlilik__
 + Rust Nesne Yönelimli Bir Dil midir?
@@ -109,6 +110,12 @@
 + Rust ve Nesne İlişkisi
 + Rust'ın Nesne Yönelimlilik Bakımından Diğer Dillerle Karşılaştırılması
 
+## __Modüller__
++ Modüllerin Tanımlanması
++ Modül Öğelerine Erişim
++ Modül Öğelerinin Görünürlüğü
++ 
+  
 ## __Trait'ler__
 + Trait'lerin Tanımlanması
 + Trait'lerin Gerçekleştirilmesi
