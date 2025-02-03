@@ -110,14 +110,27 @@
 + Rust ve Nesne İlişkisi
 + Rust'ın Nesne Yönelimlilik Bakımından Diğer Dillerle Karşılaştırılması
 
+## __enum Bildirimi ve enum Sabitleri__
++ enum Bildirimi
++ enum Sabitlerinin Kullanımı
++ enum Sabitlerine Tür İliştirilmesi
++ 
 ## __Modüller__
 + Modüllerin Tanımlanması
 + Modül Öğelerine Erişim
 + Modül Öğelerinin Görünürlüğü
 + use Bildirimi
-  
+
 ## __Trait'ler__
 + Trait'lerin Tanımlanması
 + Trait'lerin Gerçekleştirilmesi
 + 
+
+## __Genelleştirilmiş (Generic) Fonksiyonlar, Yapılar ve Trait'ler
++ Genelleştirilmiş Fonkiyonlar
++ Genelleştirilmiş Yapılar
++ Genelleştirilmiş Trait'ler
++ Genelleştirilmim enum Türleri
+
+
 
