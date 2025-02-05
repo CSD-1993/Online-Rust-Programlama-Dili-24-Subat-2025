@@ -84,7 +84,7 @@
 + match Kalıpları
 + Rust Deyimlerinin C, C++, Java ve C# Deyimleriyle Karşılaştırılması, Benzerlikler ve Farklılıklar
 
-## __Değişkenlerin Faaliyet Alanları (Scopes)__
+## __Değişkenlerin Faaliyet Alanları (Scopes) ve Ömürleri__ 
 + Modül Faaliyet Alanı (Item Scope)
 + Kalıp Bağlama Faaliyet Alanı (Pattern Binding Scopes)
   + Blok İçerisinde Bildirilen Değişkenlerin Faaliyet Alanları
@@ -92,6 +92,7 @@
   + Döngü Etiketlerinin Faaliyet Alanları (Loop Label Scopes)
   + Başlangıç Faaliyet Alanı (Prelude Scope)
 + Değişken Bildirimlerinde Gölgeleme ve Derleyici Optimizasyonu
++ static Değişkenler
 + Rust Faaliyet Alanlarının C, C++, C# Dillerindeki Faaliyet Alanlarıyla Karşılaştırılması, Benzerlikler ve Farklılıklar
 
 ## __Yapılar__
@@ -103,6 +104,7 @@
 + İliştirilmiş Fonksiyonların Tanımlanması ve Kullanımı
 + Yapıların Demet Biçiminde Bildirilmesi
 + Yapı Elemanlarında Görünürlük
++ Yapı Elemanlarının Başka Bir Yapı Türünden Olması Durumu
 + Rust'taki Yapılarla C'deki Yapıların ve C++'taki Sınıfların Karşılaştırılması
 
 ## __enum Bildirimi ve enum Sabitleri__
@@ -110,6 +112,7 @@
 + enum Sabitlerinin Kullanımı
 + enum Sabitlerine Tür İliştirilmesi
 + 
+
 ## __Modüller__
 + Modüllerin Tanımlanması
 + Modül Öğelerine Erişim
