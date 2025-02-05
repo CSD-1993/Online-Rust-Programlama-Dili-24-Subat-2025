@@ -133,7 +133,7 @@
 + Rust'ın Nesne Yönelimlilik Bakımından Diğer Dillerle Karşılaştırılması
 + İliştirilmiş Fonksiyonlar ve Trait'lerin Diğer Dillerdeki Benzerleri
 
-## __Genelleştirilmiş (Generic) Fonksiyonlar, Yapılar ve Trait'ler
+## __Genelleştirilmiş (Generic) Fonksiyonlar, Yapılar ve Trait'ler__
 + Genelleştirilmiş Fonkiyonlar
 + Genelleştirilmiş Yapılar
 + Genelleştirilmiş Trait'ler
