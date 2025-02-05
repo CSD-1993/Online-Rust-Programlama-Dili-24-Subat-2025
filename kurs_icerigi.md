@@ -126,7 +126,7 @@
 + Fonksiyonlarda Trait Bağlaması (Trait Bound)
 + Trait'lerle Java ve C# Gibi Dillerdek Arayüzlerin Karşılaştırılması
 
-+ ## __Rust ve Nesne Yönelimlilik__
+## __Rust ve Nesne Yönelimlilik__
 + Rust Nesne Yönelimli Bir Dil Midir?
 + Rust Nesne Tabanlı bir Dil Midir?
 + Rust ve Nesne İlişkisi
