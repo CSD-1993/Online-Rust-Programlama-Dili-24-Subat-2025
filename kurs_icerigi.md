@@ -60,6 +60,10 @@
 + Bit Operatörleri
 + Özel Amaçlı Operatörler
 + Rust'ta Operatör Öncelikleri
+
+  ## __Tür Dönüştürmeleri__
+  + Otomatik Tür Dönüştürmelerine İlişkin Kurallar
+  + 
   
 ## __Deyimler__
 + Rust Deyimlerine Genel Bakış
@@ -94,6 +98,12 @@
 + Değişken Bildirimlerinde Gölgeleme ve Derleyici Optimizasyonu
 + static Değişkenler
 + Rust Faaliyet Alanlarının C, C++, C# Dillerindeki Faaliyet Alanlarıyla Karşılaştırılması, Benzerlikler ve Farklılıklar
+
+## __Referanslar ve Ham Göstericiler__
++ Referans Bildirimleri
++ Referansların Kullanımları
++ Ham Gösterici Bildirimleri
++ Ham Göstericilerin Kullanımları
 
 ## __Yapılar__
 + Yapıların Bildirimleri
