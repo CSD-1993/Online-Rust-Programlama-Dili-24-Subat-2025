@@ -102,13 +102,8 @@
 + Yapıların İliştirilmiş (Associated) Fonksiyonları
 + İliştirilmiş Fonksiyonların Tanımlanması ve Kullanımı
 + Yapıların Demet Biçiminde Bildirilmesi
-+ Yapı Elemanlarında Görünürlük 
-
-## __Rust ve Nesne Yönelimlilik__
-+ Rust Nesne Yönelimli Bir Dil midir?
-+ Rust Nesne Tabanlı bir Dil Midir?
-+ Rust ve Nesne İlişkisi
-+ Rust'ın Nesne Yönelimlilik Bakımından Diğer Dillerle Karşılaştırılması
++ Yapı Elemanlarında Görünürlük
++ Rust'taki Yapılarla C'deki Yapıların ve C++'taki Sınıfların Karşılaştırılması
 
 ## __enum Bildirimi ve enum Sabitleri__
 + enum Bildirimi
@@ -124,12 +119,22 @@
 ## __Trait'ler__
 + Trait'lerin Tanımlanması
 + Trait'lerin Gerçekleştirilmesi
-+ 
++ Default Trait Metotları
++ Fonksiyonlarda Trait Bağlaması (Trait Bound)
++ Trait'lerle Java ve C# Gibi Dillerdek Arayüzlerin Karşılaştırılması
+
++ ## __Rust ve Nesne Yönelimlilik__
++ Rust Nesne Yönelimli Bir Dil Midir?
++ Rust Nesne Tabanlı bir Dil Midir?
++ Rust ve Nesne İlişkisi
++ Rust'ın Nesne Yönelimlilik Bakımından Diğer Dillerle Karşılaştırılması
++ İliştirilmiş Fonksiyonlar ve Trait'lerin Diğer Dillerdeki Benzerleri
 
 ## __Genelleştirilmiş (Generic) Fonksiyonlar, Yapılar ve Trait'ler
 + Genelleştirilmiş Fonkiyonlar
 + Genelleştirilmiş Yapılar
 + Genelleştirilmiş Trait'ler
++ Genelleştirilmiş Trait'lerde Bağlama (Trait Bound) 
 + Genelleştirilmim enum Türleri
 
 
