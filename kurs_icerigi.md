@@ -159,7 +159,7 @@
 + Genelleştirilmim enum Türleri
 
 ## __Akıllı Göstericiler__
-+ `Box<T> Kullanımı`
++ Box&lt;T&gt; Kullanımı
 + Rc<T> Kullanımı
 + Arc<T> Kullanımı
 + Cell<T>
