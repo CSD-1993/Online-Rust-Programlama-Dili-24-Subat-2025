@@ -99,11 +99,13 @@
 + static Değişkenler
 + Rust Faaliyet Alanlarının C, C++, C# Dillerindeki Faaliyet Alanlarıyla Karşılaştırılması, Benzerlikler ve Farklılıklar
 
-## __Referanslar ve Ham Göstericiler__
+## __Referanslar ve Göstericiler__
 + Referans Bildirimleri
 + Referansların Kullanımları
-+ Ham Gösterici Bildirimleri
-+ Ham Göstericilerin Kullanımları
++ Gösterici Bildirimleri
++ Göstericilerin Kullanımları
++ Değiştirilebilir (Mutubale) Göstericiler ve Referanslar
++ Güvenli Olmayan Kod Blokları
 
 ## __Yapılar__
 + Yapıların Bildirimleri
@@ -115,13 +117,19 @@
 + Yapıların Demet Biçiminde Bildirilmesi
 + Yapı Elemanlarında Görünürlük
 + Yapı Elemanlarının Başka Bir Yapı Türünden Olması Durumu
++ Yapı Tründen Göstericiler ve Referanslar
 + Rust'taki Yapılarla C'deki Yapıların ve C++'taki Sınıfların Karşılaştırılması
+
+##__Sahiplik ve Ödünç Alma__
++ Nesnelerinin Sahipliği
++ Nesnelerinin Sahipliğinin Devredilmesi ve Taşıma Süreci
++ Nesnelerin Ödünç Alınması
++ Değiştirilebilen Nesnelerin Ödünç Alınması
 
 ## __enum Bildirimi ve enum Sabitleri__
 + enum Bildirimi
 + enum Sabitlerinin Kullanımı
 + enum Sabitlerine Tür İliştirilmesi
-+ 
 
 ## __Modüller__
 + Modüllerin Tanımlanması
@@ -150,5 +158,21 @@
 + Genelleştirilmiş Trait'lerde Bağlama (Trait Bound) 
 + Genelleştirilmim enum Türleri
 
+## __Akıllı Göstericiler__
++ Box<T> Kullanımı
++ Rc<T> Kullanımı
++ Arc<T> Kullanımı
++ Cell<T>
++ RefCell<T> Kullanımı
++ Weak<T> Kullanımı
+
+## __Rust'ta Çok Kullanılan Nesne Tutan Yapılar__
++ String Yapısı 
++ Vec<T> Yaoısı ve Kullanımı
++ VecDeque<T> Yapısı ve Kullanımı
++ HashMap<K, V> Yapısı ve Kullanımı
++ HashSet<T> Yapısı ve Kullanımı
++ LinkedList<T> Yapısı ve Kullanımı
+  
 
 
