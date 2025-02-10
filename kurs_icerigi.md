@@ -39,14 +39,16 @@
 + Byte C String Sabitleri
 + Bool Sabitler
 
-## __Demetler ve Diziler__
+## __Demetler, Diziler ve Dilimler__
 + Demetlerin (Tuples) Bildirimeleri
 + Demet Elemanlarına Erişim
 + Demetlerin Açılması
 + Dizi Bildirimleri
 + Dizileri İlkdeğer Verilmesi
 + Dizi Elemanlarına Erişim
-+ Demetlrle ve Dizilerle İşlemler
++ Demetlerle ve Dizilerle İşlemler
++ Dilimlerin (Slices) Oluşturulması
++ Dilimlerde Elemanlara Erişim
   
 ## __Fonksiyonların Tanımlanması ve Çağrılması__
 + Fonksiyon Tanımlanması
