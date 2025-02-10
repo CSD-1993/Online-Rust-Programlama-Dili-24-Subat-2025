@@ -120,7 +120,7 @@
 + Yapı Tründen Göstericiler ve Referanslar
 + Rust'taki Yapılarla C'deki Yapıların ve C++'taki Sınıfların Karşılaştırılması
 
-##__Sahiplik ve Ödünç Alma__
+## __Sahiplik ve Ödünç Alma__
 + Nesnelerinin Sahipliği
 + Nesnelerinin Sahipliğinin Devredilmesi ve Taşıma Süreci
 + Nesnelerin Ödünç Alınması
