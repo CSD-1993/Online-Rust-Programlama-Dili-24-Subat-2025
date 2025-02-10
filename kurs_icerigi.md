@@ -199,7 +199,7 @@
 
 ## __Hataların Ele Alınması__
 
-## __Soket Programlama ve Ağ Üzerinde İşlem Yapan Kütüphane Öğeleri
+## __Soket Programlama ve Ağ Üzerinde İşlem Yapan Kütüphane Öğeleri__
 
 ## __Thread'ler ve Thread Senkronizasyonu__
 
