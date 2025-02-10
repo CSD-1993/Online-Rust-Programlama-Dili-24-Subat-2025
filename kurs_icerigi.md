@@ -61,9 +61,9 @@
 + Özel Amaçlı Operatörler
 + Rust'ta Operatör Öncelikleri
 
-  ## __Tür Dönüştürmeleri__
-  + Otomatik Tür Dönüştürmelerine İlişkin Kurallar
-  + 
+## __Tür Dönüştürmeleri__
++ Otomatik Tür Dönüştürmelerine İlişkin Kurallar
++ 
   
 ## __Deyimler__
 + Rust Deyimlerine Genel Bakış
