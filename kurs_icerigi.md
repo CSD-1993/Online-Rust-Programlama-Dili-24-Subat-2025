@@ -19,6 +19,7 @@
 + Rust'ta Atomlara Ayırma ve Yazık Kuralı
 
 ## __Rust'ta Temel Türler ve Değişken Bildirimleri__
++ Statik ve Dinamik Tür Sistemine Sahip Programlama Dilleri
 + Rust'ta Tür Sistemi ve Rust'taki Temel (Skaler) Türler
 + Değişkenlerin Bildirimleri
 + Değişkenlere İlkdeğer Verilmesi
@@ -62,8 +63,11 @@
 + Rust'ta Operatör Öncelikleri
 
 ## __Tür Dönüştürmeleri__
-+ Otomatik Tür Dönüştürmelerine İlişkin Kurallar
-+ 
++ Programlama Dillerinde Kuvvetli ve Zayıf Tür Kontrolleri
++ Otomatik Dönüştürme Kavramı ve Rust'ın Katı Tür Kontrolü
++ as Operatörü
++ From ve Into Trait'leri
++ TryFrom ve TryInto Trait'leri
   
 ## __Deyimler__
 + Rust Deyimlerine Genel Bakış
@@ -97,7 +101,7 @@
 + Başlangıç Faaliyet Alanı (Prelude Scope)
 + Değişken Bildirimlerinde Gölgeleme ve Derleyici Optimizasyonu
 + static Değişkenler
-+ Rust Faaliyet Alanlarının C, C++, C# Dillerindeki Faaliyet Alanlarıyla Karşılaştırılması, Benzerlikler ve Farklılıklar
++ Rust'taki Faaliyet Alanlarının C, C++, C# Dillerindeki Faaliyet Alanlarıyla Karşılaştırılması, Benzerlikler ve Farklılıklar
 
 ## __Referanslar ve Göstericiler__
 + Referans Bildirimleri
@@ -105,7 +109,9 @@
 + Gösterici Bildirimleri
 + Göstericilerin Kullanımları
 + Değiştirilebilir (Mutubale) Göstericiler ve Referanslar
++ & ve * Operatörleri
 + Güvenli Olmayan Kod Blokları
++ Rust'taki Göstericilerin ve Referansların C'deki Göstericilerden ve C++'taki Referanslardan Farklılıkları
 
 ## __Yapılar__
 + Yapıların Bildirimleri
