@@ -72,8 +72,8 @@
 + Rust'ta Deyimlerin Sınıflandırılması
 + let Deyimi
 + İfadesel Deyimler (Expression Statements)
-  + Bloklu İfadeler (Expression With Block)
-  + Bloksuz İfadeler (Expression Without Block)
++ Bloklu İfadeler (Expression With Block)
++ Bloksuz İfadeler (Expression Without Block)
 + Blok İfadeleri
 + Etiketki Blok İfadeleri
 + if ve if let İfadeleri
@@ -91,10 +91,10 @@
 ## __Değişkenlerin Faaliyet Alanları (Scopes) ve Ömürleri__ 
 + Modül Faaliyet Alanı (Item Scope)
 + Kalıp Bağlama Faaliyet Alanı (Pattern Binding Scopes)
-  + Blok İçerisinde Bildirilen Değişkenlerin Faaliyet Alanları
-  + if, for, while, match Gibi Deyimlerde Bildirilen Değişkenlerin Faaliyet Alanları
-  + Döngü Etiketlerinin Faaliyet Alanları (Loop Label Scopes)
-  + Başlangıç Faaliyet Alanı (Prelude Scope)
++ Blok İçerisinde Bildirilen Değişkenlerin Faaliyet Alanları
++ if, for, while, match Gibi Deyimlerde Bildirilen Değişkenlerin Faaliyet Alanları
++ Döngü Etiketlerinin Faaliyet Alanları (Loop Label Scopes)
++ Başlangıç Faaliyet Alanı (Prelude Scope)
 + Değişken Bildirimlerinde Gölgeleme ve Derleyici Optimizasyonu
 + static Değişkenler
 + Rust Faaliyet Alanlarının C, C++, C# Dillerindeki Faaliyet Alanlarıyla Karşılaştırılması, Benzerlikler ve Farklılıklar
