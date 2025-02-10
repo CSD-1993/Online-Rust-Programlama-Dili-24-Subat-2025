@@ -110,6 +110,8 @@
 + Göstericilerin Kullanımları
 + Değiştirilebilir (Mutubale) Göstericiler ve Referanslar
 + & ve * Operatörleri
++ Göstericilerin Artırılması ve Eksiltilmesi
++ Referanslar ve Göstericilerle İlgili Tür Uyuşum
 + Güvenli Olmayan Kod Blokları
 + Rust'taki Göstericilerin ve Referansların C'deki Göstericilerden ve C++'taki Referanslardan Farklılıkları
 
