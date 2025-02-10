@@ -187,7 +187,7 @@
 
 ## __Kütüphanedeki Nesne Tutan Diğer Önemli Yapılar__
 
-## __İteratörler ve İteratörlerin Kullanımı
+## __İteratörler ve İteratörlerin Kullanımı__
 
 ## __Hataların Ele Alınması__
 
