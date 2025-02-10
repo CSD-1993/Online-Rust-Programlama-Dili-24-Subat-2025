@@ -173,6 +173,12 @@
 + HashMap<K, V> Yapısı ve Kullanımı
 + HashSet<T> Yapısı ve Kullanımı
 + LinkedList<T> Yapısı ve Kullanımı
-  
+
+## __Dosya İşlemleri__##
++ Dosya Kavramı ve Temel Bilgiler
++ File Yapısı
++ Dosyaların Açılması ve Kapatılması
++ Dosyalardan Okuma Yapılması ve Dosyalara Yazma Yapılması
++ BufReader ve BufWriter Yapıları Kullanılarak Okuma Yazma İşlemleri
 
 
