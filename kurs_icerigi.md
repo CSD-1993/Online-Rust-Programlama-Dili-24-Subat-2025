@@ -160,19 +160,19 @@
 
 ## __Akıllı Göstericiler__
 + Box&lt;T&gt; Kullanımı
-+ Rc<T> Kullanımı
-+ Arc<T> Kullanımı
-+ Cell<T>
-+ RefCell<T> Kullanımı
-+ Weak<T> Kullanımı
++ Rc&lt;T&gt; Kullanımı
++ Arc&lt;T&gt; Kullanımı
++ Cell&lt;T&gt; Kullanımı
++ RefCell&lt;T&gt; Kullanımı
++ Weak<&lt;T&gt; Kullanımı
 
 ## __Rust'ta Çok Kullanılan Nesne Tutan Yapılar__
 + String Yapısı 
-+ Vec<T> Yaoısı ve Kullanımı
-+ VecDeque<T> Yapısı ve Kullanımı
++ Vec&lt;T&gt;Yaoısı ve Kullanımı
++ VecDeque&lt;T&gt; Yapısı ve Kullanımı
 + HashMap<K, V> Yapısı ve Kullanımı
-+ HashSet<T> Yapısı ve Kullanımı
-+ LinkedList<T> Yapısı ve Kullanımı
++ HashSet&lt;T&gt; Yapısı ve Kullanımı
++ LinkedList&lt;T&gt; Yapısı ve Kullanımı
 
 ## __Dosya İşlemleri__
 + Dosya Kavramı ve Temel Bilgiler
