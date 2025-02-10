@@ -174,7 +174,7 @@
 + HashSet<T> Yapısı ve Kullanımı
 + LinkedList<T> Yapısı ve Kullanımı
 
-## __Dosya İşlemleri__##
+## __Dosya İşlemleri__
 + Dosya Kavramı ve Temel Bilgiler
 + File Yapısı
 + Dosyaların Açılması ve Kapatılması
