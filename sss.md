@@ -17,7 +17,7 @@ C programcısı olarak zaten sistem programlama alanı ile ilgisinizdir. Muhteme
 - Rust sahip olduğu özelliklle eşzamanlı (concurrent) programlamayı daha basit ve güvenli haline getirebilmektedir. Ancak C'den daha yüksek bir seviyesi olduğu söylenebilir.
 - Rust yeni rasarlanmış bir programlama dili olduğu için modern dillerdeki pek çok özellikleri de desteklemektedir.
 
-### Rust İleride C'nin yerinei alabilir mi?
+### Rust İleride C'nin yerini alabilir mi?
 Biz Rust'ın ileride C'nin yerini alabileceğini düşünmüyoruz. C Programlama Diliningeniş bir topluluğu vardır. Bu dillerle dünyada milyonlarca proje gerçekleştirilmiştir. Rust C'ye göre daha yüksek seviyeli bir programlama dilidir. Bu nedenle sistem programcılarının gelecekte C'yi bırakıp Rust'a geçmeleri olası görülmemektedir. Rust C'ye modern bir seçenek oluşturmaktadır. 
 
 ### Rust Dili C++'a da bir seçenek oluşturuyor mu?
