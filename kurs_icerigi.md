@@ -293,7 +293,7 @@
 + crates.io Merkezi Paket Deposu
 + Ekosistemdeki Önemli Kütüphaneler
 
-## __Rust'ın C ile Entegrasyonu__
+## __Rust'ın C İle Entegrasyonu__
 + C'de Yazılmış OLan Fonksiyonların Rust'tan Kullanılması
 + Rust'ta Yazılmış Olan Fonksiyonların C'den Kullanılması
 
