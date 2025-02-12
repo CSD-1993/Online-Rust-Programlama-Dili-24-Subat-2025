@@ -55,7 +55,7 @@
 + Fonksiyonların Parametreleri
 + Fonksiyonların Geri Dönüş Değerleri
 + Fonksiyonların Çağrılması
-
+  
 ## __Temel Operatörler ve Operatör Öncelikleri__
 + Aritmetik Operatörler
 + Karşılaştırma Operatörleri
@@ -115,6 +115,9 @@
 + & ve * Operatörleri
 + Göstericilerin Artırılması ve Eksiltilmesi
 + Referanslar ve Göstericilerle İlgili Tür Uyuşumları
++ Dizilerin Fonksiyonlara Parametre Referans Yoluyla Aktarılması
++ Dizilerin Fonksiyonlara Dilimleme Yoluyla Aktarılması
++ Dizilerin Fonksiyonlara Gösterici Yoluyla Aktarılması
 + Rust'taki Göstericilerin ve Referansların C'deki Göstericilerden ve C++'taki Referanslardan Farklılıkları
 
 ## __Yapılar__
@@ -128,6 +131,8 @@
 + Yapı Elemanlarında Görünürlük
 + Yapı Elemanlarının Başka Bir Yapı Türünden Olması Durumu
 + Yapı Türünden Göstericiler ve Referanslar
++ Yapıların Fonksiyonlara Referans Yoluyla Aktarılması
++ Yapıların Fonksiyonlara Gösterici Yoluyla Aktarılması
 + Rust'taki Yapılarla C'deki Yapıların ve C++'taki Sınıfların Karşılaştırılması
 
 ## __Sahiplik ve Ödünç Alma__
@@ -135,6 +140,9 @@
 + Nesnelerinin Sahipliğinin Devredilmesi ve Taşıma Süreci
 + Nesnelerin Ödünç Alınması
 + Değiştirilebilen Nesnelerin Ödünç Alınması
++ Nesnelerin Taşınmasının ve Ödünç Alınmasının Anlamı ve Rust İçin Önemi,
++ Nesnelerin Kopyalanması
++ Nesnelerin Taşınması ve Kopyalanmasının C++'taki NEsnelerin Kopyalanması ve Taşınması İle İlgisi
 
 ## __enum Bildirimi ve enum Sabitleri__
 + enum Bildirimi
