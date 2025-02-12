@@ -160,16 +160,8 @@
 + Prosedürel Makrolar
 + Metaprogramlama Kavramı ve Metaprogramlamaya İlişkin Temel Örnekler
 + Inline Fonkisyonlar
-+ Makrolarla Inline Fonksiyonların Karşılaştırılması
 + C'nin Önişlemcisi İle Rust Makrolarının Karşılaştırılması
 + C'nin ve C++'ın Inline Fonksiyonlarıyla Rust'ın Inline Fonksiyonlarının Karşılaştırılması
-
-## __Rust ve Nesne Yönelimlilik__
-+ Rust Nesne Yönelimli Bir Dil Midir?
-+ Rust Nesne Tabanlı bir Dil Midir?
-+ Rust ve Nesne İlişkisi
-+ Rust'ın Nesne Yönelimlilik Bakımından Diğer Dillerle Karşılaştırılması
-+ İliştirilmiş Fonksiyonlar ve Trait'lerin Diğer Dillerdeki Benzerleri
 
 ## __Genelleştirilmiş (Generic) Fonksiyonlar, Yapılar ve Trait'ler__
 + Genelleştirilmiş Fonkiyonlar
@@ -177,6 +169,19 @@
 + Genelleştirilmiş Trait'ler
 + Genelleştirilmiş Trait'lerde Bağlama (Trait Bound) 
 + Genelleştirilmim enum Türleri
+
+## __Öznitelikler (Attributes)__
++ Öznitelik Nedir?
++ Rust'ta Özniteliklerin Oluşturulması
++ Çok Kullanılan Standart Özniteliker ve İşlevleri
++ Prosedürel Makrolarla Öznitelikler Oluşturma 
+  
+## __Rust ve Nesne Yönelimlilik__
++ Rust Nesne Yönelimli Bir Dil Midir?
++ Rust Nesne Tabanlı bir Dil Midir?
++ Rust ve Nesne İlişkisi
++ Rust'ın Nesne Yönelimlilik Bakımından Diğer Dillerle Karşılaştırılması
++ İliştirilmiş Fonksiyonlar ve Trait'lerin Diğer Dillerdeki Benzerleri
 
 ## __Akıllı Göstericiler__
 + Box&lt;T&gt; Kullanımı
