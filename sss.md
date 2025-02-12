@@ -1,16 +1,18 @@
 ### Online-Rust-Programlama-Dili Kursu İçin Sık Sorulan Sorular
 
+### Kursa katılabilmem için hangi düzeyde Programlama Dili Blgisine Sahip olmam Gerekir?
+C (ya da C++) Programlama Dillerini bilen ya da Derneiğimizde C Programlama Dili Kursuna katılmış olan kişiler ideal katılmcı adaylarını oluşturuyor. Ancak Java ve C#, Python gibi diğer programlama dillerini bilen kişiler de kursumuza katılabilirler. Programlamaya Rust ile başlanmasını özel gerekçeler olmadıktan sonra tavsiye etmiyoruz.
 
+### Rust Programlama Dilinin geleceği nasıl? Bu dile yatırım yapmam uygun olur mu?
+Rust C (ve kısmen C++) Programlama Diline seçenek oluşturabilecek bir sistem programlama dilidir. Yaygınlaşma aşamasındadır. Bu konuda geleceği öngörmek o kadar kolay değil. Ancak özellikle dış ülkelerde Rust projelerinin gittikçe fazlalaşması iş konusunda kurs katılımcılarına yeni seçenekler ve ufuklar açabilecektir. Rust bir süredir Linux çekirdeklerinde de kullanılmaya başlanmıştır. Kanımızca Rust programcılar için zamansal yatırım yapılabilecek bir programlama dili haline gelmiştir. Rust topluluğu da gün geçtikçe büyümektedir. Ancak bu bir yatırım tavsiyesi değildir :-).
 
-### Kursa katılabilmem için hangi düzeyde C bilgisine sahip olmalıyım?
+### Türkiye'de Rust ile proje yapılıyor mu? Dış ülkelerde durum nasıl?
+Kısıtlı da olsa ülkemizde bazı ARGE kurumlarında Rust kullanılmaya başlanmıştır. Amerika ve Avrupa ülkelerinde pek çok projede Rust kullanılmaya başlanmıştır. Bu kurumlar arz ve talep bağlamında Rust programcılarına tatminkar ücretler ödeyebilmektedir.
 
-### Benim amacım gömülü Linux sistemlerinde programlama yapmak değil onları oluşturmak ve kullanıma hazır hale getirmek. Bu kursa katılmam uygun olur mu?
+### Ben bir C Programcısıyım Rust öğrenerek ne kazanabilirim?
+C programcısı olarak zaten sistem programlama alanı ile ilgisinizdir. Muhtemelen alçak seviyeli yazılımlarla ya da gömülü sistem yazılımlarıyla uğraşıyorsunuzdur. Rust öğrenmek için gerekçeleriniz şunlar olabilir:
 
-### Kurs için satın almam gereken donanımlar var mı?
-
-
-### Kurs programını online olarak takip etmem yani derslere fiziksel olarak katılmamam eğitimden alacağım verimi düşürür mü?
-Hayır. __C ve Sistem Programcıları Derneği__ olarak düzenlediğimiz online kursların bir dezavantaj oluşturmadığını görüyoruz. Kişiden kişiye değişebilmekle birlikte, öğrencinin eğitimi ev ya da çalışma ortamında daha rahat ve konforlu bir şekilde izlemesi genel olarak verimi arttırıyor. Ayrıca eğitime fiziksel olarak katılmanız durumunda, büyük kentlerdeki trafik koşulları düşünüldüğünde ulaşım için harcayacağınız süreden tasarruf etmiş oluyorsunuz.
+- 
 
 ### Dersleri akıllı telefondan ya da mobil bir cihaz üzerinden takip edebilir miyim?
 Evet. Ancak daha iyi verim almak için daha büyük bir ekrana sahip bir bilgisayar kullanılmasını öneriyoruz. İnternet bağlantısı olan herhangi bir yerden derslere katılabilirsiniz.
