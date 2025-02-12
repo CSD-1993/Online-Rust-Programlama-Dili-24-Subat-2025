@@ -154,6 +154,16 @@
 + Fonksiyonlarda Trait Bağlaması (Trait Bound)
 + Trait'lerle Java ve C# Gibi Dillerdek Arayüzlerin Karşılaştırılması
 
+## __Makrolar ve Inline Fonksiyonlar__
++ Makro Kavramı, Makrolara Neden Gereksinim Duyulmaktadır?
++ Dekleratif Makrolar
++ Prosedürel Makrolar
++ Metaprogramlama Kavramı ve Metaprogramlamaya İlişkin Temel Örnekler
++ Inline Fonkisyonlar
++ Makrolarla Inline Fonksiyonların Karşılaştırılması
++ C'nin Önişlemcisi İle Rust Makrolarının Karşılaştırılması
++ C'nin ve C++'ın Inline Fonksiyonlarıyla Rust'ın Inline Fonksiyonlarının Karşılaştırılması
+
 ## __Rust ve Nesne Yönelimlilik__
 + Rust Nesne Yönelimli Bir Dil Midir?
 + Rust Nesne Tabanlı bir Dil Midir?
