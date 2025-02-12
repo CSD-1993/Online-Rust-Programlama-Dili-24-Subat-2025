@@ -222,6 +222,12 @@
 ## __Tarih ve Zaman İşlemleri__
 
 
+## __Dosya Sistemine İlişkin İşlemler__
++ Dosyaların Silinmesi, Kopyalanması, İsimlerinin Değiştirilmesi
++ Dizinlerin yaratılması ve Silinmesi
++ Dizin Girişlerinin Elde Edilmesi
++ Diğer Önemli Dosya ve Dizin İşlemleri
+
 ## __Kütüphanedeki Nesne Tutan Diğer Önemli Yapılar__
 + BTreeMap ve BTreeSet Yapıları
 + BinaryHeap Yapısı
@@ -241,7 +247,11 @@
 + İşbirliği İle Birlikte Çalışma (Coopertaive Multitasking)
 + async/await Modeli
 + async/await Modelinin Gerçekleştirimleri
++ Asenkron Akım İşlemleri
 
+## __Prosesler İle İlgili İşlemler__
++ 
+  
 ## __Thread'ler ve Thread Senkronizasyonu__
 + Thread Kavramı, Thread2lere Neden Gereksinim Duyulmaktadır?
 + Thread'lerin Yaratılması
@@ -263,6 +273,8 @@
 + UDP Server ve UDP Client Programların Yazılması
 + Blokeli ve Blokesiz Soket İşlemleri
 + Çok Client'lı Uygulamalarda Performans İyileştirmeleri
+
+
 
 ## __Hataların Ele Alınması__
 
