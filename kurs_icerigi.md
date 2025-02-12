@@ -160,7 +160,7 @@
 + Trait'lerin Gerçekleştirilmesi
 + Default Trait Metotları
 + Fonksiyonlarda Trait Bağlaması (Trait Bound)
-+ Trait'lerle Java ve C# Gibi Dillerdek Arayüzlerin Karşılaştırılması
++ Trait'lerle Java ve C# Gibi Dillerdeki Arayüzlerin Karşılaştırılması
 
 ## __Makrolar ve Inline Fonksiyonlar__
 + Makro Kavramı, Makrolara Neden Gereksinim Duyulmaktadır?
@@ -219,11 +219,20 @@
 
 ## __Rust'ın Standart Kütüphanesinin Genel Tanıtımı__
 + Standart Kütüphanenin Genel Kapsamı ve İçeriği
-+ Kütüphane Öğelerinin Kod İçerisidnen Kullanılması
++ Kütüphane Öğelerinin Kod İçerisinden Kullanılması
 
 ## __Kütüphanedeki Nesne Tutan Diğer Önemli Yapılar__
++ BTreeMap ve BTreeSet Yapıları
++ BinaryHeap Yapısı
 
 ## __İteratörler ve İteratörlerin Kullanımı__
++ Iterator Trait'i
++ for Döngüsünün Iteratör Karşılığı
++ Iteratör Trait'ini Destekleyen Yapıların Yazılması
++ Nesne Tutan Yapıların İteratör Yoluyla Dolaşılması
++ String Nesnelerinin İteratör Yoluyla Dolaşılması
++ Dosya İşlemlerinde İteratör Kullanımı
++ Özel İteratör Türleri 
 
 ## __Hataların Ele Alınması__
 
