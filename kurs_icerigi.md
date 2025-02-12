@@ -220,7 +220,10 @@
 + Kütüphane Öğelerinin Kod İçerisinden Kullanılması
 
 ## __Tarih ve Zaman İşlemleri__
-
++ Geçen Zamanın Temsili ve Duration Yapısı
++ Sistem Zamanının Elde Edilmesi ve Değiştirilmesi
++ Zamansal İşlemler
++ Tarihlerle işlemler ve chrono Kütüphanesi 
 
 ## __Dosya Sistemine İlişkin İşlemler__
 + Dosyaların Silinmesi, Kopyalanması, İsimlerinin Değiştirilmesi
@@ -250,7 +253,11 @@
 + Asenkron Akım İşlemleri
 
 ## __Prosesler İle İlgili İşlemler__
-+ 
++ Proses Kavramı
++ Proseslerin Exit Kodları
++ Proseslerin Çevre Değişkenlerinin Elde Edilmesi ve Oluşturulması
++ Proseslerin Çalışma Dizinlerinin Elde Edilmesi ve Değiştirilmesi
++ Proseslerin Yaratılması (Başka Bir Programın Çalıştırılması)
   
 ## __Thread'ler ve Thread Senkronizasyonu__
 + Thread Kavramı, Thread2lere Neden Gereksinim Duyulmaktadır?
@@ -274,14 +281,20 @@
 + Blokeli ve Blokesiz Soket İşlemleri
 + Çok Client'lı Uygulamalarda Performans İyileştirmeleri
 
+## __Rust'ın Standart Makroları__
++ Assert Makroları
++ Debug Makroları
++ Print ve Format Makroları
++ Diğer Önemli Standart Makrolar
 
-
-## __Hataların Ele Alınması__
-
-
+## __Rust Ekosistemi__
++ Cargo Build Sistemi ve Paket Yöneticisi
++ Önemli Rust Araçları
++ crates.io Merkezi Paket Deposu
++ Ekosistemdeki Önemli Kütüphaneler
 
 ## __Rust'ın C ile Entegrasyonu__
-
-
++ C'de Yazılmış OLan Fonksiyonların Rust'tan Kullanılması
++ Rust'ta Yazılmış Olan Fonksiyonların C'den Kullanılması
 
 
