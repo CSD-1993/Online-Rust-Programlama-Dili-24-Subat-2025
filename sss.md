@@ -1,7 +1,7 @@
 ### Online-Rust-Programlama-Dili Kursu İçin Sık Sorulan Sorular
 
 ### Kursa katılabilmem için hangi düzeyde programlama dili blgisine sahip olmam gerekir?
-C (ya da C++) Programlama Dillerini bilen ya da Derniğimizde C Programlama Dili Kursuna katılmış olan kişiler ideal katılmcı adaylarını oluşturuyor. Ancak Java ve C#, Python gibi diğer programlama dillerini bilen kişiler de kursumuza katılabilirler. Programlamaya Rust ile başlanmasını özel gerekçeler olmadıktan sonra tavsiye etmiyoruz.
+C (ya da C++) Programlama Dillerini bilen ya da Derniğimizde C Programlama Dili Kursuna katılmış olan kişiler ideal katılmcı adaylarını oluşturuyor. Ancak Java ve C#, Python gibi diğer programlama dillerini bilen kişiler de kursumuza katılabilirler. Programlamaya Rust ile başlanmasını özel gerekçeler söz konusu olmadıktan sonra tavsiye etmiyoruz.
 
 ### Rust Programlama Dilinin geleceği nasıl? Bu dile yatırım yapmam uygun olur mu?
 Rust C (ve kısmen C++) Programlama Diline seçenek oluşturabilecek bir sistem programlama dilidir. Yaygınlaşma aşamasındadır. Bu konuda geleceği öngörmek o kadar kolay değil. Ancak özellikle dış ülkelerde Rust projelerinin gittikçe fazlalaşması iş konusunda kurs katılımcılarına yeni seçenekler ve ufuklar açabilecektir. Rust bir süredir Linux çekirdeklerinde de kullanılmaya başlanmıştır. Kanımızca Rust programcılar için yatırım yapılabilecek bir programlama dili haline gelmiştir. Rust topluluğu da gün geçtikçe büyümektedir. Ancak bu bir yatırım tavsiyesi değildir :-).
