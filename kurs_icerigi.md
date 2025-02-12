@@ -215,8 +215,6 @@
 + BufReader ve BufWriter Yapıları Kullanılarak Okuma Yazma İşlemleri
 + Dosyalar Üzerinde Diğer Temel İşlemler
 
-## __Rust'ta Asenkron Programlama Modeli__
-
 ## __Rust'ın Standart Kütüphanesinin Genel Tanıtımı__
 + Standart Kütüphanenin Genel Kapsamı ve İçeriği
 + Kütüphane Öğelerinin Kod İçerisinden Kullanılması
@@ -239,6 +237,10 @@
 + Dosya İşlemlerinde İteratör Kullanımı
 + Özel İteratör Türleri 
 
+## __Rust'ta Asenkron Programlama Modeli__
++ İşbirliği İle Birlikte Çalışma (Coopertaive Multitasking)
++ async/await Modeli
++ async/await Modelinin Gerçekleştirimleri
 
 ## __Thread'ler ve Thread Senkronizasyonu__
 + Thread Kavramı, Thread2lere Neden Gereksinim Duyulmaktadır?
@@ -258,7 +260,8 @@
 + Server ve Client Programların Yazımı
 + Çok Client'lı Server Uygulamaları
 + UDP/IP Programlama
-+ UDP Server ve UDP Client Programların YAzılması
++ UDP Server ve UDP Client Programların Yazılması
++ Blokeli ve Blokesiz Soket İşlemleri
 + Çok Client'lı Uygulamalarda Performans İyileştirmeleri
 
 ## __Hataların Ele Alınması__
