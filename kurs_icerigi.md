@@ -16,7 +16,7 @@
 + Rust'ta "Merhaba Dünya" Programı
 + Cargo Paket Yöneticisinin kullanımı
 + Rust Kaynak Dosyalarının Organizasyonu
-+ Rust'ta Atomlara Ayırma ve Yazık Kuralı
++ Rust'ta Atomlara Ayırma ve Yazım Kuralı
 
 ## __Rust'ta Temel Türler ve Değişken Bildirimleri__
 + Statik ve Dinamik Tür Sistemine Sahip Programlama Dilleri
@@ -44,7 +44,7 @@
 + Demet Elemanlarına Erişim
 + Demetlerin Açılması
 + Dizi Bildirimleri
-+ Dizileri İlkdeğer Verilmesi
++ Dizilere İlkdeğer Verilmesi
 + Dizi Elemanlarına Erişim
 + Demetlerle ve Dizilerle İşlemler
 + Dilimlerin (Slices) Oluşturulması
@@ -96,7 +96,7 @@
 
 ## __Değişkenlerin Faaliyet Alanları (Scopes) ve Ömürleri__ 
 + Modül Faaliyet Alanı (Item Scope)
-+ Kalıp Bağlama Faaliyet Alanı (Pattern Binding Scopes)
++ Kalıp Bağlama Faaliyet Alanı (Pattern Binding Scope)
 + Blok İçerisinde Bildirilen Değişkenlerin Faaliyet Alanları
 + if, for, while, match Gibi Deyimlerde Bildirilen Değişkenlerin Faaliyet Alanları
 + Döngü Etiketlerinin Faaliyet Alanları (Loop Label Scopes)
@@ -110,11 +110,11 @@
 + Referansların Kullanımları
 + Gösterici Bildirimleri
 + Göstericilerin Kullanımları
-+ Değiştirilebilir (Mutubale) Göstericiler ve Referanslar
++ Değiştirilebilir (Mutubale) Referanslar ve Göstericiler
++ Güvenli Olmayan Kod Blokları
 + & ve * Operatörleri
 + Göstericilerin Artırılması ve Eksiltilmesi
-+ Referanslar ve Göstericilerle İlgili Tür Uyuşum
-+ Güvenli Olmayan Kod Blokları
++ Referanslar ve Göstericilerle İlgili Tür Uyuşumları
 + Rust'taki Göstericilerin ve Referansların C'deki Göstericilerden ve C++'taki Referanslardan Farklılıkları
 
 ## __Yapılar__
@@ -127,7 +127,7 @@
 + Yapıların Demet Biçiminde Bildirilmesi
 + Yapı Elemanlarında Görünürlük
 + Yapı Elemanlarının Başka Bir Yapı Türünden Olması Durumu
-+ Yapı Tründen Göstericiler ve Referanslar
++ Yapı Türünden Göstericiler ve Referanslar
 + Rust'taki Yapılarla C'deki Yapıların ve C++'taki Sınıfların Karşılaştırılması
 
 ## __Sahiplik ve Ödünç Alma__
@@ -168,7 +168,7 @@
 + Genelleştirilmiş Yapılar
 + Genelleştirilmiş Trait'ler
 + Genelleştirilmiş Trait'lerde Bağlama (Trait Bound) 
-+ Genelleştirilmim enum Türleri
++ Genelleştirilmiş enum Türleri
 
 ## __Öznitelikler (Attributes)__
 + Öznitelik Nedir?
@@ -205,6 +205,9 @@
 + Dosyaların Açılması ve Kapatılması
 + Dosyalardan Okuma Yapılması ve Dosyalara Yazma Yapılması
 + BufReader ve BufWriter Yapıları Kullanılarak Okuma Yazma İşlemleri
++ Dosyalar Üzerinde Diğer Temel İşlemler
+
+## __Rust'ta Asenkron Programlama Modeli__
 
 ## __Rust'ın Standart Kütüphanesinin Genel Tanıtımı__
 + Standart Kütüphanenin Genel Kapsamı ve İçeriği
