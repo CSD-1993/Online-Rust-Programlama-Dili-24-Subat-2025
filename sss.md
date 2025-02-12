@@ -1,7 +1,7 @@
 ### Online-Rust-Programlama-Dili Kursu İçin Sık Sorulan Sorular
 
 ### Kursa katılabilmem için hangi düzeyde Programlama Dili Blgisine Sahip olmam Gerekir?
-C (ya da C++) Programlama Dillerini bilen ya da Derneiğimizde C Programlama Dili Kursuna katılmış olan kişiler ideal katılmcı adaylarını oluşturuyor. Ancak Java ve C#, Python gibi diğer programlama dillerini bilen kişiler de kursumuza katılabilirler. Programlamaya Rust ile başlanmasını özel gerekçeler olmadıktan sonra tavsiye etmiyoruz.
+C (ya da C++) Programlama Dillerini bilen ya da Derniğimizde C Programlama Dili Kursuna katılmış olan kişiler ideal katılmcı adaylarını oluşturuyor. Ancak Java ve C#, Python gibi diğer programlama dillerini bilen kişiler de kursumuza katılabilirler. Programlamaya Rust ile başlanmasını özel gerekçeler olmadıktan sonra tavsiye etmiyoruz.
 
 ### Rust Programlama Dilinin geleceği nasıl? Bu dile yatırım yapmam uygun olur mu?
 Rust C (ve kısmen C++) Programlama Diline seçenek oluşturabilecek bir sistem programlama dilidir. Yaygınlaşma aşamasındadır. Bu konuda geleceği öngörmek o kadar kolay değil. Ancak özellikle dış ülkelerde Rust projelerinin gittikçe fazlalaşması iş konusunda kurs katılımcılarına yeni seçenekler ve ufuklar açabilecektir. Rust bir süredir Linux çekirdeklerinde de kullanılmaya başlanmıştır. Kanımızca Rust programcılar için zamansal yatırım yapılabilecek bir programlama dili haline gelmiştir. Rust topluluğu da gün geçtikçe büyümektedir. Ancak bu bir yatırım tavsiyesi değildir :-).
@@ -12,7 +12,16 @@ Kısıtlı da olsa ülkemizde bazı ARGE kurumlarında Rust kullanılmaya başla
 ### Ben bir C Programcısıyım Rust öğrenerek ne kazanabilirim?
 C programcısı olarak zaten sistem programlama alanı ile ilgisinizdir. Muhtemelen alçak seviyeli yazılımlarla ya da gömülü sistem yazılımlarıyla uğraşıyorsunuzdur. Rust öğrenmek için gerekçeleriniz şunlar olabilir:
 
-- 
+- Rust bellek güvenliği ve tanımsız davranış konusunda daha güvenli biçimde tasarlanmıştır. Tabii bu durum dili doğallıktan da biraz uzaklaştırsa da kodlama aşamasında böcekler konusunda daha güvenli bir kullanıma yol açmaktadır.
+- Rust da C ile benzer performaslara sahiptir.
+- Rust sahip olduğu özelliklle eşzamanlı (concurrent) programlamayı daha basit ve güvenli haline getirebilmektedir. Ancak C'den daha yüksek bir seviyesi olduğu söylenebilir.
+- Rust yeni rasarlanmış bir programlama dili olduğu için modern dillerdeki pek çok özellikleri de desteklemektedir.
+
+### Rust İleride C'nin yerinei alabilir mi?
+Biz Rust'ın ileride C'nin yerini alabileceğini düşünmüyoruz. C Programlama Diliningeniş bir topluluğu vardır. Bu dillerle dünyada milyonlarca proje gerçekleştirilmiştir. Rust C'ye göre daha yüksek seviyeli bir programlama dilidir. Bu nedenle sistem programcılarının gelecekte C'yi bırakıp Rust'a geçmeleri olası görülmemektedir. Rust C'ye modern bir seçenek oluşturmaktadır. 
+
+### Rust Dili C++'a da bir seçenek oluşturuyor mu?
+Rust doğrudan C++'a seçenek oluşturan bir programlama dili değildir. Çünkü C++ nesne yönelimli programlama tekniğinin uygulanabildiği bir programlama dilidir. Rust bu anlamda nsne yönelimli değildir ancak uygulama programcılığında da kullanılabilecek bir tasarıma sahiptir. C++'ın geniş bir topluluğu vardır. Rust ise gelişmekte olan bir programlama dilidir. Özetle Rust C++'a doğrudan değil kısmen bir seçenek oluşturabilmektedir. 
 
 ### Dersleri akıllı telefondan ya da mobil bir cihaz üzerinden takip edebilir miyim?
 Evet. Ancak daha iyi verim almak için daha büyük bir ekrana sahip bir bilgisayar kullanılmasını öneriyoruz. İnternet bağlantısı olan herhangi bir yerden derslere katılabilirsiniz.
