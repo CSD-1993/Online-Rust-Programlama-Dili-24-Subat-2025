@@ -47,9 +47,6 @@ Tabi ki.
 ### Dersleri kayıt edebilir miyim?
 Dersleri kendi olanaklarınızla başkalarıyla paylaşmamak üzere kayıt edebilirsiniz. Derslerin izin alınmadan başkalarıyla paylaşılması, İnternet ortamında yayınlanması hukuki ve ticari yaptırımlara tabidir.
 
-### Daha önce C ve Sistem Programcıları Derneğinde Aynı kursa katılmıştım. Bu kursa tekrar amaçlı ücret ödemeden katılabilir miyim?
-Hayır. Ancak __C ve Sistem Programcıları Derneği'nde__ düzenlenmekte olan örgün kurslara tekrar amaçlı katılabilirsiniz.
-
 ### Kurs bitiminde sertifika alabilecek miyim?
 Evet. Bu kurs sonunda kursa katılanlara __C ve Sistem Programcıları Derneği__ tarafından düzenlenen bitirme sertifikası verilecektir.
 
