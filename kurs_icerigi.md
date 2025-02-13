@@ -1,7 +1,7 @@
 # Online Rust Programlama Dili Kursu (250 saat)
 
 ## __Giriş__
-+ Programilama Dillerine Genel Bakış
++ Programlama Dillerine Genel Bakış
 + Programlama Dillerinin Tarihsel Gelişimi
 + Rust Programlama Dilinin Doğuşu ve Gelişimi
 + Rust Programlama Dilinin Kullanım Alanları
@@ -40,7 +40,7 @@
 + Bool Sabitler
 
 ## __Demetler, Diziler ve Dilimler__
-+ Demetlerin (Tuples) Bildirimeleri
++ Demetlerin (Tuples) Bildirimleri
 + Demet Elemanlarına Erişim
 + Demetlerin Açılması
 + Dizi Bildirimleri
@@ -201,7 +201,7 @@
 
 ## __Rust'ta Çok Kullanılan Nesne Tutan Yapılar__
 + String Yapısı 
-+ Vec&lt;T&gt;Yaoısı ve Kullanımı
++ Vec&lt;T&gt;Yapısı ve Kullanımı
 + VecDeque&lt;T&gt; Yapısı ve Kullanımı
 + HashMap<K, V> Yapısı ve Kullanımı
 + HashSet&lt;T&gt; Yapısı ve Kullanımı
