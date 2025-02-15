@@ -1,10 +1,10 @@
 ### Online-Rust-Programlama-Dili Kursu İçin Sık Sorulan Sorular
 
 ### Kursa katılabilmem için hangi düzeyde programlama dili blgisine sahip olmam gerekir?
-C (ya da C++) Programlama Dillerini bilen ya da Derniğimizde C Programlama Dili Kursuna katılmış olan kişiler ideal katılmcı adaylarını oluşturuyor. Ancak Java ve C#, Python gibi diğer programlama dillerini bilen kişiler de kursumuza katılabilirler. Programlamaya Rust ile başlanmasını özel gerekçeler söz konusu olmadıktan sonra tavsiye etmiyoruz.
+C (ya da C++) Programlama Dillerini bilen ya da Derneğimizde C Programlama Dili Kursuna katılmış olan kişiler ideal katılmcı adaylarını oluşturuyor. Ancak Java ve C#, Python gibi diğer programlama dillerini bilen kişiler de kursumuza katılabilirler. Programlamaya Rust ile başlanmasını özel gerekçeler söz konusu olmadıktan sonra tavsiye etmiyoruz.
 
 ### Rust Programlama Dilinin geleceği nasıl? Bu dile yatırım yapmam uygun olur mu?
-Rust C (ve kısmen C++) Programlama Diline seçenek oluşturabilecek bir sistem programlama dilidir. Yaygınlaşma aşamasındadır. Bu konuda geleceği öngörmek o kadar kolay değil. Ancak özellikle dış ülkelerde Rust projelerinin gittikçe fazlalaşması iş konusunda kurs katılımcılarına yeni seçenekler ve ufuklar açabilecektir. Rust bir süredir Linux çekirdeklerinde de kullanılmaya başlanmıştır. Kanımızca Rust programcılar için yatırım yapılabilecek bir programlama dili haline gelmiştir. Rust topluluğu da gün geçtikçe büyümektedir. Ancak bu bir yatırım tavsiyesi değildir :-).
+Rust C ve kısmen de C++ Programlama Diline seçenek oluşturabilecek bir sistem programlama dilidir. Yaygınlaşma aşamasındadır. Bu konuda geleceği öngörmek o kadar kolay değil. Ancak özellikle dış ülkelerde Rust projelerinin gittikçe fazlalaşması iş konusunda kurs katılımcılarına yeni seçenekler ve ufuklar açabilecektir. Rust bir süredir Linux çekirdeklerinde de kullanılmaya başlanmıştır. Kanımızca Rust programcılar için yatırım yapılabilecek bir programlama dili haline gelmiştir. Rust topluluğu da gün geçtikçe büyümektedir. Ancak bu bir yatırım tavsiyesi değildir :-).
 
 ### Türkiye'de Rust ile proje yapılıyor mu? Dış ülkelerdeki durum nasıl?
 Kısıtlı da olsa ülkemizde bazı ARGE kurumlarında Rust kullanılmaya başlanmıştır. Amerika ve Avrupa ülkelerinde pek çok projede Rust kullanımı yaygınlaşmaktadır. Bu kurumlar arz ve talep bağlamında Rust programcılarına tatminkar ücretler ödeyebilmektedir.
@@ -12,7 +12,7 @@ Kısıtlı da olsa ülkemizde bazı ARGE kurumlarında Rust kullanılmaya başla
 ### Ben bir C Programcısıyım Rust öğrenerek ne kazanabilirim?
 C programcısı olarak zaten sistem programlama alanı ile ilgisinizdir. Muhtemelen alçak seviyeli yazılımlarla ya da gömülü sistem yazılımlarıyla uğraşıyorsunuzdur. Rust öğrenmek için gerekçeleriniz şunlar olabilir:
 
-- Rust daha güvenli bir programlama ortamı sunacak biçimde biçimde tasarlanmıştır. Bu durum dili doğallıktan biraz uzaklaştırsa da kodlama aşamasında böcekler konusunda daha güvenli bir kullanım oluşturmaktadır.
+- Rust daha güvenli bir programlama ortamı sunacak biçimde tasarlanmıştır. Bu durum dili doğallıktan biraz uzaklaştırsa da kodlama aşamasında böcekler konusunda daha güvenli bir kullanım oluşturmaktadır.
 - Rust da C ile benzer performaslara sahiptir.
 - Rust sahip olduğu özelliklerle eşzamanlı (concurrent) programlamayı daha basit ve güvenli haline getirebilmektedir. Ancak C'den daha yüksek bir seviyesi olduğu söylenebilir.
 - Rust yeni tasarlanmış bir programlama dili olduğu için modern dillerdeki pek çok özellikleri de bünyesinde barındırmaktadır.
