@@ -297,4 +297,5 @@
 + C'de Yazılmış OLan Fonksiyonların Rust'tan Kullanılması
 + Rust'ta Yazılmış Olan Fonksiyonların C'den Kullanılması
 
-
+# Kursa Kayıt
+[Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZYpc-6vpjotGtUIE3aLDdzRK2G7mN6beDba#/registration)
