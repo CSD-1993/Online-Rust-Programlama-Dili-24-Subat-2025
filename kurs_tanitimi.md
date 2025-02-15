@@ -1,7 +1,7 @@
 ## Online Rust Programlama Dili Kursu - Genel Tanıtım
 <b>Rust</b>  
 
-Rust modern özelliklere sahip gelişmekte olan bir sistem programlama dilidir. C ve C++ Dillerine bir seçenek oluşturmaktadır. Bu kurs __Rust__ Programlama Dilini uygulamalı olarak ayrıntılı biçimde uygulamalı olarak öğretmeyi hedeflemektedir.
+Rust modern özelliklere sahip gelişmekte olan bir sistem programlama dilidir. C ve C++ Dillerine bir seçenek oluşturmaktadır. Bu kurs __Rust__ Programlama Dilini uygulamalı olarak ayrıntılı biçimde öğretmeyi hedeflemektedir.
   
 ## Ön Koşul
 Bu kurs için katılımcıların temel programlama bilgisine sahip olması ve daha önce bir programlama dilinde uygulamalı çalışmalar yapmış olması gerekmektedir.
