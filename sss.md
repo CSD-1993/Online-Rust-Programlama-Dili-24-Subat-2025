@@ -50,4 +50,5 @@ Dersleri kendi olanaklarınızla başkalarıyla paylaşmamak üzere kayıt edebi
 ### Kurs bitiminde sertifika alabilecek miyim?
 Evet. Bu kurs sonunda kursa katılanlara __C ve Sistem Programcıları Derneği__ tarafından düzenlenen bitirme sertifikası verilecektir.
 
-+ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.]()
+# Kursa Kayıt
+[Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZYpc-6vpjotGtUIE3aLDdzRK2G7mN6beDba#/registration)
