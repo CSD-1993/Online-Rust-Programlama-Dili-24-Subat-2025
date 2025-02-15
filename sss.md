@@ -1,4 +1,4 @@
-### Online-Rust-Programlama-Dili Kursu İçin Sık Sorulan Sorular
+### Online-Rust-Programlama-Dili Kursu İçin Sıkça Sorulan Sorular
 
 ### Kursa katılabilmem için hangi düzeyde programlama dili blgisine sahip olmam gerekir?
 C (ya da C++) Programlama Dillerini bilen ya da Derneğimizde C Programlama Dili Kursuna katılmış olan kişiler ideal katılmcı adaylarını oluşturuyor. Ancak Java ve C#, Python gibi diğer programlama dillerini bilen kişiler de kursumuza katılabilirler. Programlamaya Rust ile başlanmasını özel gerekçeler söz konusu olmadıktan sonra tavsiye etmiyoruz.
