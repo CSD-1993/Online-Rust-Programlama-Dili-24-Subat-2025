@@ -21,7 +21,7 @@ C programcısı olarak zaten sistem programlama alanı ile ilgisinizdir. Muhteme
 Biz Rust'ın ileride C'nin yerini alabileceğini düşünmüyoruz. C Programlama Dilinin geniş bir topluluğu vardır. C ile (C++'ı da dahil edelim) dünyada milyonlarca proje yazılmıştır. Rust C'ye göre nispeten daha yüksek seviyeli bir programlama dilidir. Bu nedenle sistem programcılarının gelecekte C'yi bırakıp tümden Rust'a geçmelerini olası görmüyoruz. Rust C'ye modern bir seçenek oluşturmaktadır. 
 
 ### Rust Dili C++'a da bir seçenek oluşturuyor mu?
-Rust doğrudan C++'a seçenek oluşturan bir programlama dili değildir. Çünkü C++ nesne yönelimli programlama tekniğinin uygulanabildiği bir programlama dilidir. Rust bu anlamda nsne yönelimli değildir ancak uygulama programcılığında da kullanılabilecek bir tasarıma sahiptir. C++'ın geniş bir topluluğu vardır. Rust ise gelişmekte olan bir programlama dilidir. Özetle Rust C++'a doğrudan değil kısmen bir seçenek oluşturabilmektedir. 
+Rust tamamen değil kısmen C++'a seçenek oluşturmaktadır. Çünkü C++ nesne yönelimli programlama tekniğinin uygulanabildiği bir programlama dilidir. Rust bu anlamda nesne yönelimli değildir ancak uygulama programcılığında da kullanılabilecek bir tasarıma sahiptir. C++'ın geniş bir topluluğu vardır. Rust ise gelişmekte olan bir programlama dilidir. 
 
 ### Dersleri akıllı telefondan ya da mobil bir cihaz üzerinden takip edebilir miyim?
 Evet. Ancak daha iyi verim almak için daha büyük bir ekrana sahip bir bilgisayar kullanılmasını öneriyoruz. İnternet bağlantısı olan herhangi bir yerden derslere katılabilirsiniz.
