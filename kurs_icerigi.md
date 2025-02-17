@@ -1,4 +1,4 @@
-# Online Rust Programlama Dili Kursu (250 saat)
+# Online Rust Programlama Dili Kursu (250 saat) - İçerik
 
 ## __Giriş__
 + Programlama Dillerine Genel Bakış
