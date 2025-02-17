@@ -1,7 +1,7 @@
-# Online-Rust-Programlama-Dili-24-Şubat-2025
+# Online Rust Programlama Dili Kursu - 24 Şubat 2025
 
 
-+ Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) ve `"Sistem Bilgisayar"` işbirliği ile düzenlenmektedir.
++ Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) ve `"Sistem Bilgisayar"` iş birliği ile düzenlenmektedir.
 + Kurs 24 Şubat 2025 tarihinde başlayacaktır.
 + Kurs eğitmeni __Kaan Aslan__'dır.
 + Kursumuz gerçek zamanlıdır. Derslerimiz interaktif olarak yapılmaktadır.
